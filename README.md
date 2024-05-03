@@ -1,4 +1,4 @@
-# CAREER-INSIGHTS
+# Foresight-Career-Path-Analytics-Platform
 A web Portal Used for the Prediction of Admission Jobs in Engineering and Technology /Management/Pharmacy with respect to demographic locations. 
 
 #### Install and Run: 
